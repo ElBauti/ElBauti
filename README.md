@@ -1,8 +1,10 @@
 -<h1 align="center">Hi 👋, I'm Bautista</h1>
 <h3 align="center">A passionate backend developer from argentina</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElBauti&layout=compact)](https://github.com/ElBauti/github-readme-stats)
-- 🌱 I’m currently learning **fastapi**
+| Stats | Top Languages |
+| ------|:---------:|
+| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElBauti)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElBauti&langs_count=3&hide=CSS)](https://github.com/anuraghazra/github-readme-stats) |
+
 
 - 💬 Ask me aboutdad **python, django and fastapi :)**
 

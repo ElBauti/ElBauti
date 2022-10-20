@@ -1,6 +1,7 @@
 -<h1 align="center">Hi 👋, I'm Bautista</h1>
 <h3 align="center">A passionate backend developer from argentina</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElBauti&layout=compact)](https://github.com/ElBauti/github-readme-stats)
 - 🌱 I’m currently learning **fastapi**
 
 - 💬 Ask me aboutdad **python, django and fastapi :)**
